@@ -15,9 +15,13 @@ ToDo List is a simple command-line tool written in Python that helps you manage 
 
 # Features
 Add tasks to your ToDo list.
+
 Mark tasks as complete.
+
 View your current tasks.
+
 Remove completed tasks.
+
 Save tasks to a file for future reference.
 # Commands
 add: Add a new task to the list.
